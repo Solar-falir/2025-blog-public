@@ -61,6 +61,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765110945962",
+			"type": "wechat",
+			"value": "15535154945",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
