@@ -71,5 +71,6 @@
 		}
 	],
 	"clockShowSeconds": false,
-	"summaryInContent": false
+	"summaryInContent": false,
+	"hideEditButton": false
 }
